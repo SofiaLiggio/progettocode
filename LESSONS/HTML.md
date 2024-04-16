@@ -28,7 +28,7 @@ In sintesi, HTML fornisce la struttura di base di una pagina web, definendo i su
 # QUANDO USARE HTML?
 
 
-HTML è utilizzato ogni volta che si desidera creare una pagina web. Ecco alcune situazioni in cui è appropriato utilizzarLO:
+HTML è utilizzato ogni volta che si desidera creare una pagina web. Ecco alcune situazioni in cui è appropriato utilizzarlo:
 
 - **Creazione di siti web**: HTML è essenziale per la creazione di qualsiasi tipo di sito web, che si tratti di un sito statico, un blog, un sito di e-commerce o una piattaforma di social media.
 
