@@ -17,7 +17,8 @@
 
 ## Link e Immagini:
 
-**< a >**: Crea un link ipertestuale.
+**< a >**: Crea un link ipertestuale. Questo è l'elemento anchor, che indica al browser che stiamo definendo un link ipertestuale.
+href="https://www.esempio.com": Questo è l'attributo "href" che specifica l'URL di destinazione del link (bisogna sostituire il link d'esempio con l'URL del nostro link).
 **< img >**: Inserisce un'immagine.
 
 ## Liste:
@@ -36,17 +37,28 @@
 ## Forme:
 
 **< form >**: Definisce un modulo.
-**< input >**: Definisce un campo di input.
-**< textarea >**: Definisce un'area di testo multi-riga.
-**< button >**: Definisce un pulsante di invio.
+**< input >**: Definisce un campo di input. <input type="text" name="nome" id="campo-nome">
+type="text": Questo attributo specifica che l'elemento di input sarà un campo di testo, che permette agli utenti di inserire del testo.
+name="nome": Questo attributo assegna un nome al campo di input. Questo nome può essere utilizzato per identificare il campo quando viene inviato un modulo o utilizzato da JavaScript.
+id="campo-nome": Questo attributo assegna un identificatore univoco al campo di input. Può essere utilizzato per selezionare il campo di input utilizzando JavaScript o CSS.
+Puoi modificare il valore dell'attributo type per creare diversi tipi di campi di input, ad esempio:
+
+- type="text": Campo di testo per l'inserimento di testo libero.
+- type="password": Campo di testo per l'inserimento di password, dove il testo viene mascherato.
+- type="email": Campo di testo per l'inserimento di un indirizzo email.
+- type="number": Campo di testo per l'inserimento di un numero.
+- type="checkbox": Casella di controllo per l'opzione di selezione multipla.
+- type="radio": Pulsante di opzione per l'opzione di selezione singola.
+- type="file": Campo per il caricamento di file.
+
+  **< textarea >**: Definisce un'area di testo multi-riga.
+  **< button >**: Definisce un pulsante di invio.
 
 ## Altri:
 
 **< div >**: Definisce una divisione o sezione generica.
 **< span >**: Definisce un'area di testo o contenuto inline.
 **< iframe >**: Inserisce un frame inline per incorporare un'altra pagina web.
-
-
 
 # ALTRI COMANDI HTML
 
@@ -89,8 +101,3 @@ Ecco alcuni altri comandi HTML che possono essere utili per definire la struttur
 **id**: Identifica un elemento HTML in modo univoco all'interno della pagina.
 **class**: Assegna una o più classi CSS a un elemento per applicare stili o identificare gruppi di elementi.
 **style**: Specifica gli stili CSS inline per un elemento specifico.
-
-
-
-
-
