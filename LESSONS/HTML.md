@@ -2,7 +2,7 @@
 
 **HTML**, acronimo di *HyperText Markup Language* (Linguaggio di Markup ad IperTesto), è il linguaggio standard utilizzato per la creazione e la strutturazione di pagine web. È il fondamento di base di qualsiasi sito web e viene utilizzato per definire la struttura e il contenuto di una pagina web, compresi testo, immagini, link ipertestuali, elementi multimediali e altro ancora.
 
-HTML utilizza una serie di **"tag"** per definire gli elementi all'interno di una pagina web. Ad esempio, il tag <p> viene utilizzato per definire un paragrafo di testo, <img> per inserire un'immagine, <a> per creare un link ipertestuale e così via. Ogni tag ha una specifica funzione e può includere attributi che ne definiscono il comportamento o l'aspetto.
+HTML utilizza una serie di **"tag"** per definire gli elementi all'interno di una pagina web. Ad esempio, il tag < p > viene utilizzato per definire un paragrafo di testo, < img > per inserire un'immagine, < a > per creare un link ipertestuale e così via. Ogni tag ha una specifica funzione e può includere attributi che ne definiscono il comportamento o l'aspetto.
 
 HTML è spesso utilizzato insieme ad altri linguaggi web come **CSS** (Cascading Style Sheets) per definire l'aspetto visivo delle pagine e **JavaScript** per aggiungere funzionalità dinamiche e interattive.
 
@@ -12,11 +12,11 @@ HTML è spesso utilizzato insieme ad altri linguaggi web come **CSS** (Cascading
 
 HTML funziona come un linguaggio di markup, il che significa che definisce la struttura e il contenuto di una pagina web utilizzando una serie di tag. Ecco una panoramica di base su come funziona HTML:
 
-- **Creazione della struttura**: Inizia con un documento HTML vuoto o un modello predefinito. Il documento HTML è costituito da due sezioni principali: l'intestazione <head> e il corpo <body>. All'interno dell'intestazione, vengono fornite informazioni come il titolo della pagina, collegamenti a fogli di stile CSS, script JavaScript, metadati e altro ancora.
+- **Creazione della struttura**: Inizia con un documento HTML vuoto o un modello predefinito. Il documento HTML è costituito da due sezioni principali: l'intestazione < head > e il corpo < body >. All'interno dell'intestazione, vengono fornite informazioni come il titolo della pagina, collegamenti a fogli di stile CSS, script JavaScript, metadati e altro ancora.
 
-- **Utilizzo dei tag**: Utilizzando tag HTML, definisci il contenuto della tua pagina. Ad esempio, <p> viene utilizzato per definire un paragrafo di testo, <h1> - <h6> per i titoli di diversi livelli, <img> per le immagini, <a> per i link e così via. Ogni tag ha una funzione specifica e può includere attributi per definire ulteriori proprietà o comportamenti.
+- **Utilizzo dei tag**: Utilizzando tag HTML, definisci il contenuto della tua pagina. Ad esempio, < p > viene utilizzato per definire un paragrafo di testo, < h1 > - < h6 > per i titoli di diversi livelli, < img > per le immagini, < a > per i link e così via. Ogni tag ha una funzione specifica e può includere attributi per definire ulteriori proprietà o comportamenti.
 
-- **Innesto di tag**: I tag possono essere annidati all'interno l'uno dell'altro per creare una struttura gerarchica. Ad esempio, è possibile inserire un paragrafo <p> all'interno di un elemento di elenco <ul> per creare un elenco puntato.
+- **Innesto di tag**: I tag possono essere annidati all'interno l'uno dell'altro per creare una struttura gerarchica. Ad esempio, è possibile inserire un paragrafo < p > all'interno di un elemento di elenco < ul > per creare un elenco puntato.
 
 - **Visualizzazione nel browser**: Una volta che il documento HTML è stato creato, può essere visualizzato in un browser web. Il browser interpreta il codice HTML e renderizza la pagina web in base alla sua struttura e ai contenuti definiti nei tag.
 
